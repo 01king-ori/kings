@@ -27,9 +27,9 @@
 #h6{
   font-size: xx-large;
 }
-/* #portfolio{
+#portfolio{
   border: initial;
-  border-bottom-left-radius: initial; */
+  border-bottom-left-radius: initial;
 }
 #contact{
   width: 100%;
@@ -57,4 +57,7 @@
   font-family: fantasy;
   color: darkorange;
   font-size: x-large;
+} 
+#intro{
+  text-align: end;
 }
