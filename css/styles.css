@@ -1,7 +1,6 @@
 #background{
   width: 100%;
   height: 860px;
-  position:relative;
   text-align: center;
   padding-right: 10%;
   border-radius: 50%;
@@ -24,16 +23,13 @@
   font-size: x-large;
   color: gold;
 }
-#h6{
-  font-size: xx-large;
-}
 #portfolio{
   border: initial;
   border-bottom-left-radius: initial;
 }
 #contact{
   width: 100%;
-  height: 860px;
+  height: 760px;
   position:relative;
   text-align: center;
   padding-right: 10%;
@@ -59,5 +55,5 @@
   font-size: x-large;
 } 
 #intro{
-  text-align: end;
+  justify-content:space-evenly;
 }
